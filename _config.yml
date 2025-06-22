@@ -7,7 +7,7 @@ first_name: Kristina
 middle_name: K.
 last_name: Gagalova
 contact_note: >
-  For code/research inquiries, post an issue in the corresponding repo. For all other inquiries, feel free to email me.
+  For code/research inquiries, post an issue in the corresponding GitHub repo. For all other inquiries, feel free to email me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >

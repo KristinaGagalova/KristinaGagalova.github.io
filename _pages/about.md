@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. *"Everything will be okay in the end. If it's not okay, it's not the end."*
+subtitle: <a href='#'>My motto</a>. "Everything will be okay in the end. If it's not okay, it's not the end."
 
 profile:
   align: right

@@ -129,8 +129,7 @@
         "FAIR",
         "Pipelines"
       ]
-    },
-    
+    }
   ],
   "languages": [
     {
@@ -185,7 +184,7 @@
      {
       "name": "Structural bioinformatics for pathogenicity characterization",
       "summary": "Using computational models to predict and analyze protein structures and their interactions, aiding in the understanding of molecular function, binding mechanisms, and potential targets for disease development in crops.",
-      "highlights": ["Protei-protein interaction", "Effectors"],
+      "highlights": ["Protein-protein interaction", "Effectors"],
       "startDate": "2025-06-01",
       "endDate": "current",
       "url": ""

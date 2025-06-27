@@ -161,6 +161,18 @@
       ]
     }
   ],
+  "references": [
+    {
+      "name": "",
+      "icon": "fa-solid fa-laptop",
+      "reference": "."
+    },
+    {
+      "name": "",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "."
+    }
+  ],
   "projects": [
     {
       "name": "Plant pangenomics",

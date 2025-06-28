@@ -56,6 +56,28 @@
       "endDate": "2022-05-15",
       "score": "",
       "courses": ["Genomics", "Evolutionary Genomics", "High Performance Computing"]
+    },
+    {
+      "institution": "Vrije University",
+      "location": "Amsterdam, The Netherlands",
+      "url": "https://vu.nl/en",
+      "area": "Bioinformatics algorithms and Machine Learning",
+      "studyType": "MSc",
+      "startDate": "2013-09-01",
+      "endDate": "2015-09-09",
+      "score": "",
+      "courses": ["Dynamic programming", "Data mining", "Bioinformatics databases"]
+    },
+    {
+      "institution": "University of Bologna",
+      "location": "Bologna, Italy",
+      "url": "https://www.unibo.it/en",
+      "area": "Biotechnology and Synthetic biology",
+      "studyType": "MSc",
+      "startDate": "2010-10-01",
+      "endDate": "2013-03-01",
+      "score": "",
+      "courses": ["Model organisms", "Molecular genetics", "Translational research"]
     }
   ],
   "awards": [
@@ -126,7 +148,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "FAIR",
+        "Findable, Accessible, Interoperable, and Reusable (FAIR)",
         "Pipelines"
       ]
     }
@@ -188,6 +210,6 @@
       "startDate": "2025-06-01",
       "endDate": "current",
       "url": ""
-    },
+    }
   ]
 }

@@ -2,9 +2,9 @@
 layout: post
 title: If you’re not using pipelines, you’re not doing it right.
 date: 2025-06-28 11:00:00
-description: an example of a blog post with some code
+description: workflows - from scripts to scale
 tags: workflows nextflow
-categories: sample-posts
+categories: personal-perspective
 featured: true
 ---
 

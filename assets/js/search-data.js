@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-migrating-to-25-04-nextflow-documentation",
+            },{id: "post-if-you-re-not-using-pipelines-you-re-not-doing-it-right",
+        
+          title: "If you’re not using pipelines, you’re not doing it right.",
+        
+        description: "an example of a blog post with some code",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/workflows/";
+          
+        },
+      },{id: "post-migrating-to-25-04-nextflow-documentation",
         
           title: 'Migrating to 25.04 — Nextflow documentation <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         

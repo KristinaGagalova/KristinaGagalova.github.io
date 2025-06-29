@@ -76,7 +76,7 @@ ninja.data = [{
         
           title: "If you’re not using pipelines, you’re not doing it right.",
         
-        description: "an example of a blog post with some code",
+        description: "workflows - from scripts to scale",
         section: "Posts",
         handler: () => {
           
